@@ -1,0 +1,31 @@
+{
+  "name": "portofolio-afgan",
+  "version": "1.0.0",
+  "description": "Portofolio Afgan - Web Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "portofolio",
+    "web-developer",
+    "afgan",
+    "vibecoding",
+    "frontend"
+  ],
+  "author": "Afgan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aganishere/portofolio-afgan"
+  },
+  "bugs": {
+    "url": "https://github.com/aganishere/portofolio-afgan/issues"
+  },
+  "homepage": "https://github.com/aganishere/portofolio-afgan#readme",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
